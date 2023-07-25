@@ -1,0 +1,11 @@
+name age
+anna 33
+maryna 30
+kate 37
+max 34
+inna 56
+petro 61
+olena 27
+taras 17
+oleg 40
+viktor 32
